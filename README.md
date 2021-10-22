@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @luisminopicallo
+- 👀 I’m interested in Python and React
+- 🌱 I’m currently learning Python,React,Ensemble and Magnolia CMS
+- 📫 luisminopicallo@gmail.com
